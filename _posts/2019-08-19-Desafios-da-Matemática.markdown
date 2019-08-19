@@ -7,4 +7,4 @@ img: post-2.jpg
 tags: [Projetos]
 author: Toda a Equipe Desafios da Matemática
 ---
-![folheto desafios da matematica](assets/img/folheto.jpg)
+![folheto desafios da matematica](\assets\img\folheto.jpg)
