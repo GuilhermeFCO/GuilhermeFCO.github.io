@@ -16,5 +16,5 @@ author: Guilherme Fernandes
 </p>
 <p>
 Orientador: 
-[link para o Receitas de Código](https://receitasdecodigo.com.br "Receitas de Código")
+<p>Esse o <a href="https://receitasdecodigo.com.br" title="Receitas de Código">link para o Receitas de Código</a></p>
 </p>
